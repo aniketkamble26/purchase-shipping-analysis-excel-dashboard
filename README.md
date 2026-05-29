@@ -14,7 +14,7 @@ The purpose of this project is to convert raw retail data into meaningful busine
 
 ## Dashboard Preview
 
-![Dashboard Preview](Images/Purchase & Shipping Analysis Dashboard - Preview.png)
+![Dashboard Preview](Images/purchase_shipping_analysis_dashboard_preview.png)
 
 ---
 
